@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Londrina+Sketch');
+
+* {
+  font-family: 'Londrina Sketch', cursive, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #708e72;
+  height: 100vh;
+}
